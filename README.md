@@ -8,14 +8,21 @@ Published by **SENY MARITIME EOOD** (Bulgaria, EU).
 
 ---
 
-## 📥 Download — macOS
+## 📥 Download
+
+### macOS
 
 | Platform | File | Direct download |
 |---|---|---|
 | **Apple Silicon** (M1 / M2 / M3 / M4) | `OceanlinkX Vouchers_2.0.1_aarch64.dmg` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_aarch64.dmg) |
 | **Intel Mac** (any Mac before 2020) | `OceanlinkX Vouchers_2.0.1_x64.dmg` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_x64.dmg) |
 
-**Windows builds — coming soon.**
+### Windows
+
+| Platform | File | Direct download |
+|---|---|---|
+| **Windows 10 / 11** (recommended installer) | `OceanlinkX Vouchers_2.0.1_x64-setup.exe` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_x64-setup.exe) |
+| **Windows 10 / 11** (MSI for corporate / Group Policy) | `OceanlinkX Vouchers_2.0.1_x64_en-US.msi` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_x64_en-US.msi) |
 
 ---
 
@@ -34,6 +41,13 @@ Published by **SENY MARITIME EOOD** (Bulgaria, EU).
 - macOS **10.15 Catalina** or newer
 - 50 MB free disk space
 - Internet access only for license activation and (optionally) MikroTik communication
+
+### Windows
+- Windows **10** (any version) or **Windows 11**
+- 50 MB free disk space
+- Internet access only for license activation and (optionally) MikroTik communication
+
+> **Windows first-launch note:** Windows SmartScreen may show "Unknown publisher" because we don't yet have a Windows code-signing certificate. Click **"More info"** → **"Run anyway"**. One-time only.
 
 ### MikroTik (optional)
 - RouterOS 6.43+ (any modern version)
