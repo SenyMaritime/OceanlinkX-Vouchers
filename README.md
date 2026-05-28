@@ -14,15 +14,15 @@ Published by **SENY MARITIME EOOD** (Bulgaria, EU).
 
 | Platform | File | Direct download |
 |---|---|---|
-| **Apple Silicon** (M1 / M2 / M3 / M4) | `OceanlinkX Vouchers_2.0.1_aarch64.dmg` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_aarch64.dmg) |
-| **Intel Mac** (any Mac before 2020) | `OceanlinkX Vouchers_2.0.1_x64.dmg` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_x64.dmg) |
+| **Apple Silicon** (M1 / M2 / M3 / M4) | `OceanlinkX Vouchers_2.0.1_aarch64.dmg` | [⬇ Download](https://github.com/SenyMaritime/OceanlinkX-Vouchers/raw/main/downloads/OceanlinkX%20Vouchers_2.0.1_aarch64.dmg) |
+| **Intel Mac** (any Mac before 2020) | `OceanlinkX Vouchers_2.0.1_x64.dmg` | [⬇ Download](https://github.com/SenyMaritime/OceanlinkX-Vouchers/raw/main/downloads/OceanlinkX%20Vouchers_2.0.1_x64.dmg) |
 
 ### Windows
 
 | Platform | File | Direct download |
 |---|---|---|
-| **Windows 10 / 11** (recommended installer) | `OceanlinkX Vouchers_2.0.1_x64-setup.exe` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_x64-setup.exe) |
-| **Windows 10 / 11** (MSI for corporate / Group Policy) | `OceanlinkX Vouchers_2.0.1_x64_en-US.msi` | [Download](downloads/OceanlinkX%20Vouchers_2.0.1_x64_en-US.msi) |
+| **Windows 10 / 11** (recommended installer) | `OceanlinkX Vouchers_2.0.1_x64-setup.exe` | [⬇ Download](https://github.com/SenyMaritime/OceanlinkX-Vouchers/raw/main/downloads/OceanlinkX%20Vouchers_2.0.1_x64-setup.exe) |
+| **Windows 10 / 11** (MSI for corporate / Group Policy) | `OceanlinkX Vouchers_2.0.1_x64_en-US.msi` | [⬇ Download](https://github.com/SenyMaritime/OceanlinkX-Vouchers/raw/main/downloads/OceanlinkX%20Vouchers_2.0.1_x64_en-US.msi) |
 
 ---
 
